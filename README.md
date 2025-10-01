@@ -51,8 +51,6 @@ Key features include:
 ![Teacher Progression](images/teacher_progression.png)  
 
 **UML Class Diagram**  
-![UML Diagram](images/uml_diagram.png)  
+![UML Diagram](images/StudentRecordSystemUMLDiagram.png)  
 
 ---
-
-![StudentRecordSystemUMLDiagram](assets/98656036/2c96515f-d6cd-4236-ba8e-7af82ae766c9)
