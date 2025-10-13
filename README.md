@@ -1,6 +1,6 @@
 # UL Student Records System – CS4013 Object Oriented Development Project
 
-This project is a **student records system** designed for the University of Limerick (UL).  
+This group project is a **student records system** designed for the University of Limerick (UL).  
 
 The system allows UL to manage different programme types (undergraduate, postgraduate, taught, and research) with varying durations and structures.  
 
